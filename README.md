@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohtashimAli85
+- 👋 Hi, I’m Mohtashim Ali
 - 👀 I’m interested in Frontend Web Developement
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact me on my gmail mohtashima85@gmail.com
