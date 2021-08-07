@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohtashimAli85
-- 👀 I’m interested in Frontend Web Developer
+- 👀 I’m interested in Frontend Web Developement
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact me on my gmail mohtashima85@gmail.com
 
