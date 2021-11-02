@@ -28,7 +28,7 @@
   <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohtashimali85&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </div>
-  <div
+  <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohtashimali85&layout=compact&langs_count=8&theme=algolia"/>
   </div>
 </a>
