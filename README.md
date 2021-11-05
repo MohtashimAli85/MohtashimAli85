@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently doing Software Engineering from UET Taxila and learning ReactJS.\
 ✉️ &nbsp;You can shoot me an email at mohtashima85@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,7 +23,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/MohtashimAli85">
   <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohtashimali85&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </div>
